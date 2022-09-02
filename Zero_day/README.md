@@ -1,1 +1,1 @@
-My second readme
+Hello ubuntu
